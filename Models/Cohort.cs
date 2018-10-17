@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace TrackinggStudentExercises.Models
+namespace TrackingStudentExercises.Models
 {
     public class Cohort
     {

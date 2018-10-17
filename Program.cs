@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using TrackinggStudentExercises.Models;
+using TrackingStudentExercises.Models;
 using Dapper;
 
-namespace TrackinggStudentExercises {
+namespace TrackingStudentExercises {
     class Program {
         static void Main (string[] args) {
             var conn = DatabaseInterface.Connection;

@@ -1,4 +1,4 @@
-namespace TrackinggStudentExercises.Models
+namespace TrackingStudentExercises.Models
 {
     public class Instructor
     {

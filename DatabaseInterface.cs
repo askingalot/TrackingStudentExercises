@@ -1,6 +1,6 @@
 using Microsoft.Data.Sqlite;
 
-namespace TrackinggStudentExercises {
+namespace TrackingStudentExercises {
     public static class DatabaseInterface {
         public static SqliteConnection Connection {
             get {
